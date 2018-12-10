@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.Main">
+   <children>
+      <Pane layoutX="1.0" layoutY="6.0" prefHeight="391.0" prefWidth="591.0">
+         <children>
+            <Label layoutX="114.0" layoutY="53.0" prefHeight="53.0" prefWidth="349.0" text="Flexi Rent Application" textFill="#eb2929">
+               <font>
+                  <Font name="System Bold" size="32.0" />
+               </font>
+            </Label>
+            <Button layoutX="208.0" layoutY="156.0" mnemonicParsing="false" onAction="#openMainWindow" prefHeight="97.0" prefWidth="162.0" text="&lt; Click to Start &gt;" textFill="#a34815" />
+            <Label layoutX="43.0" layoutY="23.0" text="s3479719">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font></Label>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

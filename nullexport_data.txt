@@ -1,0 +1,11 @@
+A_1NST1:1:New Street1:Melbourne:Apartment:3:Rented:A1.jpg:This is the best apartment in the city 
+A_2NST2:2:New Stree2:Melbourne:Apartment:2:Rented:A2.jpg:Very nice and luxuriois apartment.
+A_3NST3:3:New Stree3:Melbourne:Apartment:2:Maintenance:A3.jpg:This apartment is centrally located in the doklands area.
+A_4NST4:4:New Street4:Melburne:Apartment:2:Available:A4.jpg:Unmatched location at an unbeatable price with all the latest amenities.
+A_4NST5:5:New Street5:Melbourne:Apartment:2:Available:A5.jpg:Perfectly positioned on the 10th floor of The William building, this stylish, spacious and superior 2 bedroom apartment places you right in the thick of.
+A_4NST6:6:New Street6:Melbourne:Apartment:3:Available:A6.jpg:A brilliant location in the prime position of the Mt Waverley Secondary School zone, be thrilled by the impressive land dimensions and exciting future offered by this classic home.
+A_4NST7:7:New Street7:Melbourne:Apartment:3:Available:A7.jpg: contemporary apartment and a world of convenience awaits nearby including a thriving brunching culture along Keilor Road, city bound trams and Niddrie Central Shopping Centre. Securely positioned 
+A_4NST8:8:New Street8:Melbourne:Apartment:3:Available:A8.jpg:kland surrounds. Privacy is paramount and leafy serenity is guaranteed throughout this remarkable home sitting at the end of an exclusive river-side cul-de-sac close to Victoria Gardens entertainment, Bar
+A_4NST9:9:New Street9:Melbourne:Apartment:3:Available:A9.jpg:landscaped gardens exclusively located in one of Toorak’s finest cul-de-sacs.
+A_4NST10:10:New Street10:Melbourne:Apartment:2:Available:A10.jpg:Unforgettable luxury characterises this elegant Christopher Doyle designed
+P_1NPS1:1:New Premium Street1:Melbourne:PremiumSuite:3:AvailableP_1NPS2:2:New Premium Stree2:Melbourne:PremiumSuite:3:AvailableP_1NPS3:3:New Premium Street3:Melbourne:PremiumSuite:3:AvailableP_1NPS4:4:New Premium Street4:Melbourne:PremiumSuite:3:AvailableP_1NPS5:5:New Premium Street5:Melbourne:PremiumSuite:3:Available
